@@ -32,6 +32,18 @@ This game was developed using the **Amazon Q Developer CLI**, which provides int
 
 ---
 
+## 🧑‍💻 Install Amazon Q Developer CLI
+
+```bash
+# Step 1: Install Q CLI using npm (requires Node.js installed)
+npm install -g @aws/q
+
+# Step 2: Log in to your AWS account
+qcli login
+
+# Step 3: Start chatting with Q to generate or debug code
+qcli chat
+
 ## 🧑‍💻 Local Installation
 
 ### 📦 Requirements
